@@ -1,2 +1,2 @@
-# assweb
-web tech
+# WTAS3
+jQuery and ajax
